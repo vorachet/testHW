@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_K4EFIH67EeiZRqQUdQoITA" name="ReqModels">
+  <packageImport xmi:type="uml:PackageImport" xmi:id="_K_HvYH67EeiZRqQUdQoITA">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Class" xmi:id="_UVVQ0H67EeiZRqQUdQoITA" name="Concept1"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_VggDcH67EeiZRqQUdQoITA" name="Concept2"/>
+</uml:Model>
